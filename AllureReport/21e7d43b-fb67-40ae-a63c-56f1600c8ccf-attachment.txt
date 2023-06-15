@@ -1,0 +1,6 @@
+[32mINFO    [0m test_url:test_url_01.py:19 Test case started
+[32mINFO    [0m test_url:test_url_01.py:20 Launching Site
+[32mINFO    [0m test_url:test_url_01.py:23 printing page title
+[32mINFO    [0m test_url:test_url_01.py:30 taking screenshot
+[32mINFO    [0m test_url:test_url_01.py:34 screenshot taken
+[32mINFO    [0m test_url:test_url_01.py:37 Test case executed successfully

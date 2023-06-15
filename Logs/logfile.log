@@ -74,3 +74,13 @@
 2023-06-15 16:17:56,139 : INFO :  test_url : test_url: Test case executed successfully
 2023-06-15 16:17:57,065 : INFO :  test_login : test_login: clicked on login btn
 2023-06-15 16:17:57,894 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 16:34:13,274 : INFO :  test_login : test_login: Launching application
+2023-06-15 16:34:13,415 : INFO :  test_url : test_url: Test case started
+ started
+2023-06-15 16:34:13,489 : INFO :  test_url : test_url: Launching Site
+2023-06-15 16:34:20,695 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 16:34:20,935 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 16:34:20,951 : INFO :  test_url : test_url: printing page title
+2023-06-15 16:34:21,047 : INFO :  test_url : test_url: taking screenshot
+2023-06-15 16:34:21,247 : INFO :  test_url : test_url: screenshot taken
+2023-06-15 16:34:21,247 : INFO :  test_url : test_url: Test case executed successfully
