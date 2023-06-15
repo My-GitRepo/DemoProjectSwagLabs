@@ -84,3 +84,100 @@
 2023-06-15 16:34:21,047 : INFO :  test_url : test_url: taking screenshot
 2023-06-15 16:34:21,247 : INFO :  test_url : test_url: screenshot taken
 2023-06-15 16:34:21,247 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 17:24:17,775 : INFO :  test_login : test_login: Launching application
+2023-06-15 17:24:17,806 : INFO :  test_login : test_login: Login test case started
+2023-06-15 17:24:21,013 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 17:34:51,610 : INFO :  test_login : test_login: Launching application
+2023-06-15 17:34:51,733 : INFO :  test_login : test_login: Login test case started
+2023-06-15 17:34:57,464 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 17:34:57,711 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 17:35:19,476 : INFO :  test_login : test_login: Launching application
+2023-06-15 17:35:19,503 : INFO :  test_login : test_login: Login test case started
+2023-06-15 17:35:27,097 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 17:35:27,355 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 18:46:12,499 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:46:12,541 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 18:46:15,032 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 18:46:15,525 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 18:46:16,763 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:46:16,867 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 18:46:50,953 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:46:50,982 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 18:46:51,725 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 18:46:52,161 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 18:46:52,467 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:46:52,543 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 18:46:53,308 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 18:52:04,901 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:52:04,901 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:52:04,901 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:52:04,902 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:52:04,902 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:52:04,903 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:52:04,932 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 18:52:05,424 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 18:52:05,528 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 18:53:00,648 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:53:00,649 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:53:00,649 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:53:00,649 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:53:00,649 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:53:00,649 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:53:00,673 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 18:53:01,241 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 18:53:01,333 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 18:58:48,546 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 18:58:48,585 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 18:58:49,070 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 18:58:49,265 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 19:12:42,485 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:12:42,485 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:12:42,485 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:12:42,485 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:12:42,485 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:12:42,485 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:12:42,513 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 19:12:42,986 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 19:12:43,055 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 19:13:52,115 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:13:52,116 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:13:52,116 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:13:52,116 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:13:52,116 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:13:52,134 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 19:13:52,652 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 19:13:52,757 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 19:15:40,321 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:15:40,322 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:15:40,323 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:15:40,323 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:15:40,323 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:15:40,343 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 19:15:40,899 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 19:15:40,980 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 19:15:41,187 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-15 19:18:06,769 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:18:06,843 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:18:06,843 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:18:06,843 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:18:06,843 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:18:06,875 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 19:18:07,351 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 19:18:07,434 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 19:19:54,434 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:19:54,436 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:19:54,436 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:19:54,437 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:19:54,437 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:19:54,468 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 19:19:54,943 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 19:19:55,026 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 19:19:55,250 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-15 19:21:16,236 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:21:16,236 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:21:16,236 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:21:16,237 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:21:16,237 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 19:21:16,266 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 19:21:16,735 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 19:21:16,833 : INFO :  test_login_ddt : test_login_ddt: validation successful

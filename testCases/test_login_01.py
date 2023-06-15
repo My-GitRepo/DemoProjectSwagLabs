@@ -40,5 +40,6 @@ class TestLoginFunc(BaseClass):
 
         mp.clkMenuBtn()
         mp.clkLogOutBtn()
+        log.info('Login test case completed')
         self.driver.close()
 
