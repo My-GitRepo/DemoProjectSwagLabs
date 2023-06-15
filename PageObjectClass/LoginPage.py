@@ -1,24 +1,27 @@
 from selenium.webdriver.common.by import By
 
 
-class HomeLoginPage:
+class MainLoginPage:
 
     # constructor
     def __init__(self, driver):
         self.driver = driver
 
-    # locators
-    userName = (By.XPATH, "//input[@id='user-name']")
-    passWd = (By.XPATH, "//input[@id='password']")
-    loginBtn = (By.XPATH, "//input[@id='login-button']")
-    loginLocator= By.XPATH, "//input[@id='login-button']"
+    # locator
+
+    cartBtn = (By.XPATH, "//a[@class='shopping_cart_link']")
+    menuBtn = (By.XPATH, "//button[@id='react-burger-menu-btn']")
+    logOutBtn = (By.XPATH, "//a[@id='logout_sidebar_link']")
+    loginLocator = By.XPATH, "//input[@id='login-button']"
+    cartLocator = By.XPATH, "//a[@class='shopping_cart_link']"
 
     # actions
-    def setUserName(self, username):
-        return self.driver.find_element(*HomeLoginPage.userName).send_keys(username)
 
-    def setPassWd(self, password):
-        return self.driver.find_element(*HomeLoginPage.passWd).send_keys(password)
+    def getCartBtn(self):
+        return self.driver.find_element(*MainLoginPage.cartBtn)
 
-    def clkLoginBtn(self):
-        return self.driver.find_element(*HomeLoginPage.loginBtn).click()
+    def clkMenuBtn(self):
+        self.driver.find_element(*MainLoginPage.menuBtn).click()
+
+    def clkLogOutBtn(self):
+        self.driver.find_element(*MainLoginPage.logOutBtn).click()

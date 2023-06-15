@@ -1,6 +1,6 @@
 import time
 
-from PageObjectClass.LoginPage import HomeLoginPage
+from PageObjectClass.HomePage import HomeLoginPage
 from utility.BaseClass import BaseClass
 from utility.ReadProperties import ReadData
 
@@ -26,8 +26,12 @@ class TestUrl(BaseClass):
 
         if self.driver.title == 'Swag Labs':
             assert True
+
+            log.info('taking screenshot')
             self.driver.save_screenshot(
                 r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_url.png")
+
+            log.info('screenshot taken')
         else:
             assert False
         log.info('Test case executed successfully')

@@ -10,3 +10,67 @@
 2023-06-15 15:02:48,065 : INFO :  test_url : test_url: Launching Site
 2023-06-15 15:02:51,766 : INFO :  test_url : test_url: printing page title
 2023-06-15 15:02:51,952 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 15:12:30,181 : INFO :  test_url : test_url: Test case started
+2023-06-15 15:12:30,182 : INFO :  test_url : test_url: Launching Site
+2023-06-15 15:12:34,134 : INFO :  test_url : test_url: printing page title
+2023-06-15 15:12:35,355 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 15:44:39,246 : INFO :  test_login : test_login: Launching application
+2023-06-15 15:44:39,246 : INFO :  test_login : test_login: Login test case started
+2023-06-15 15:48:05,223 : INFO :  test_login : test_login: Launching application
+2023-06-15 15:48:05,315 : INFO :  test_login : test_login: Login test case started
+2023-06-15 15:48:13,128 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 15:49:59,134 : INFO :  test_login : test_login: Launching application
+2023-06-15 15:49:59,134 : INFO :  test_login : test_login: Login test case started
+2023-06-15 15:50:05,285 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 15:56:49,592 : INFO :  test_login : test_login: Launching application
+2023-06-15 15:56:49,593 : INFO :  test_login : test_login: Login test case started
+2023-06-15 15:56:54,307 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 15:57:40,309 : INFO :  test_login : test_login: Launching application
+2023-06-15 15:57:40,309 : INFO :  test_login : test_login: Login test case started
+2023-06-15 15:57:45,506 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 15:57:46,437 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 15:58:25,714 : INFO :  test_login : test_login: Launching application
+2023-06-15 15:58:25,812 : INFO :  test_login : test_login: Login test case started
+2023-06-15 15:58:30,252 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 15:59:51,701 : INFO :  test_login : test_login: Launching application
+2023-06-15 15:59:51,779 : INFO :  test_login : test_login: Login test case started
+2023-06-15 15:59:56,315 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 15:59:56,663 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 16:00:37,676 : INFO :  test_login : test_login: Launching application
+2023-06-15 16:00:37,676 : INFO :  test_login : test_login: Login test case started
+2023-06-15 16:00:42,370 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 16:00:42,414 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 16:01:35,245 : INFO :  test_login : test_login: Launching application
+2023-06-15 16:01:35,245 : INFO :  test_login : test_login: Login test case started
+2023-06-15 16:01:41,240 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 16:01:41,567 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 16:02:56,319 : INFO :  test_login : test_login: Launching application
+2023-06-15 16:02:56,320 : INFO :  test_login : test_login: Login test case started
+2023-06-15 16:03:00,734 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 16:03:01,095 : INFO :  test_login : test_login: Validation Successfull
+2023-06-15 16:03:49,858 : INFO :  test_url : test_url: Test case started
+2023-06-15 16:03:49,858 : INFO :  test_url : test_url: Launching Site
+2023-06-15 16:03:54,277 : INFO :  test_url : test_url: printing page title
+2023-06-15 16:03:54,442 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 16:04:53,434 : INFO :  test_url : test_url: Test case started
+2023-06-15 16:04:53,434 : INFO :  test_url : test_url: Launching Site
+2023-06-15 16:04:58,843 : INFO :  test_url : test_url: printing page title
+2023-06-15 16:04:58,899 : INFO :  test_url : test_url: taking scrrenshot
+2023-06-15 16:04:59,084 : INFO :  test_url : test_url: screenshot taken
+2023-06-15 16:04:59,085 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 16:06:31,149 : INFO :  test_url : test_url: Test case started
+2023-06-15 16:06:31,174 : INFO :  test_url : test_url: Launching Site
+2023-06-15 16:06:35,794 : INFO :  test_url : test_url: printing page title
+2023-06-15 16:06:35,873 : INFO :  test_url : test_url: taking scrrenshot
+2023-06-15 16:06:36,030 : INFO :  test_url : test_url: screenshot taken
+2023-06-15 16:06:36,030 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 16:17:48,145 : INFO :  test_url : test_url: Test case started
+2023-06-15 16:17:48,145 : INFO :  test_url : test_url: Launching Site
+2023-06-15 16:17:51,034 : INFO :  test_login : test_login: Launching application
+2023-06-15 16:17:51,034 : INFO :  test_login : test_login: Login test case started
+2023-06-15 16:17:55,372 : INFO :  test_url : test_url: printing page title
+2023-06-15 16:17:55,849 : INFO :  test_url : test_url: taking screenshot
+2023-06-15 16:17:56,138 : INFO :  test_url : test_url: screenshot taken
+2023-06-15 16:17:56,139 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 16:17:57,065 : INFO :  test_login : test_login: clicked on login btn
+2023-06-15 16:17:57,894 : INFO :  test_login : test_login: Validation Successfull
