@@ -10,24 +10,24 @@ class TestUrl(BaseClass):
     username = ReadData.readUserName()
     passWd = ReadData.readPassWd()
 
-    def test_url_login(self, setup):
+    def test_url(self, setup):
         self.driver = setup  # fixture
 
-        self.driver.get(self.baseUrl)  # launching web-application
-
+        log = self.getLogGen()  # logger
         hp = HomeLoginPage(self.driver)  # PageObjectClass
 
-        self.getWaits(hp.loginLocator)
+        log.info('Test case started')
+        log.info('Launching Site')
+        self.driver.get(self.baseUrl)  # launching web-application
+
+        log.info('printing page title')
+        self.getExplicitWait(hp.loginLocator)
         print(self.driver.title)
 
-        hp.setUserName(self.username)  # sending data from config file
-        hp.setPassWd(self.passWd)  # sending data from config file
+        if self.driver.title == 'Swag Labs':
+            assert True
+        else:
+            assert False
+        log.info('Test case executed successfully')
 
-        self.driver.save_screenshot(
-            r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_url_login.png")
-
-        hp.clkLoginBtn()
-
-        print(self.driver.title)
-        time.sleep(5)
         self.driver.close()
