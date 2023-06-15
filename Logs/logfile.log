@@ -1,0 +1,12 @@
+2023-06-15 14:46:22,893 : INFO :  test_url_login : test_url_login: Test case started
+2023-06-15 14:46:22,893 : INFO :  test_url_login : test_url_login: Launching Site
+2023-06-15 14:46:30,504 : INFO :  test_url_login : test_url_login: printing page title
+2023-06-15 14:46:31,389 : INFO :  test_url_login : test_url_login: Test case executed successfully
+2023-06-15 15:00:58,226 : INFO :  test_url : test_url: Test case started
+2023-06-15 15:00:58,226 : INFO :  test_url : test_url: Launching Site
+2023-06-15 15:01:04,326 : INFO :  test_url : test_url: printing page title
+2023-06-15 15:01:04,514 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-15 15:02:47,899 : INFO :  test_url : test_url: Test case started
+2023-06-15 15:02:48,065 : INFO :  test_url : test_url: Launching Site
+2023-06-15 15:02:51,766 : INFO :  test_url : test_url: printing page title
+2023-06-15 15:02:51,952 : INFO :  test_url : test_url: Test case executed successfully

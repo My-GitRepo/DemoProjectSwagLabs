@@ -26,6 +26,8 @@ class TestUrl(BaseClass):
 
         if self.driver.title == 'Swag Labs':
             assert True
+            self.driver.save_screenshot(
+                r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_url.png")
         else:
             assert False
         log.info('Test case executed successfully')
