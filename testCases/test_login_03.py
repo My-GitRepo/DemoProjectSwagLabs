@@ -50,8 +50,6 @@ class TestLoginDDT(BaseClass):
                     assert True
                     writeData(self.file, 'Sheet1', r, 5, 'Pass')  # writing data into excel
                 else:
-                    self.driver.save_screenshot(
-                        r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_login_ddt_failed.png")
                     assert False
 
                 log.info('validation successful')
@@ -60,5 +58,8 @@ class TestLoginDDT(BaseClass):
                 mp.clkLogOutBtn()
             except:
                 writeData(self.file, 'Sheet1', r, 5, 'Fail')  # writing data into excel
+                self.driver.save_screenshot(
+                    r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_login_ddt_failed.png")
+
         log.info('Data Driven testing completed')
         self.driver.close()

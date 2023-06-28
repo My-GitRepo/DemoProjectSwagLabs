@@ -480,3 +480,72 @@
 2023-06-28 16:12:19,966 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
 2023-06-28 16:12:20,061 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
 2023-06-28 16:12:20,155 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 16:22:13,358 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:22:13,446 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:22:15,532 : INFO :  test_url : test_url: Test case started
+2023-06-28 16:22:15,532 : INFO :  test_url : test_url: Launching Site
+2023-06-28 16:22:16,892 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 16:22:16,892 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:22:17,644 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:22:17,796 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:22:18,412 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:22:23,580 : INFO :  test_url : test_url: printing page title
+2023-06-28 16:22:23,667 : INFO :  test_url : test_url: taking screenshot
+2023-06-28 16:22:23,915 : INFO :  test_url : test_url: screenshot taken
+2023-06-28 16:22:23,915 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-28 16:22:29,066 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:22:39,661 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:25:37,860 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:25:37,861 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:25:40,227 : INFO :  test_url : test_url: Test case started
+2023-06-28 16:25:40,227 : INFO :  test_url : test_url: Launching Site
+2023-06-28 16:25:47,005 : INFO :  test_url : test_url: printing page title
+2023-06-28 16:25:47,101 : INFO :  test_url : test_url: taking screenshot
+2023-06-28 16:25:47,309 : INFO :  test_url : test_url: screenshot taken
+2023-06-28 16:25:47,309 : INFO :  test_url : test_url: Test case executed successfully
+2023-06-28 16:25:48,456 : INFO :  test_login : test_login: clicked on login btn
+2023-06-28 16:25:48,808 : INFO :  test_login : test_login: Validation Successfull
+2023-06-28 16:25:49,161 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 16:25:49,161 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:25:50,009 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:25:50,149 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:25:50,395 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:25:50,962 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:25:51,014 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:25:51,341 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:26:01,922 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:26:44,750 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:26:44,750 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:26:49,507 : INFO :  test_login : test_login: clicked on login btn
+2023-06-28 16:26:49,721 : INFO :  test_login : test_login: Validation Successfull
+2023-06-28 16:27:52,610 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:27:52,627 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:27:56,649 : INFO :  test_login : test_login: clicked on login btn
+2023-06-28 16:27:56,867 : INFO :  test_login : test_login: Validation Successfull
+2023-06-28 16:27:56,987 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-06-28 16:28:23,809 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:28:23,809 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:28:27,169 : INFO :  test_login : test_login: clicked on login btn
+2023-06-28 16:28:27,266 : INFO :  test_login : test_login: Validation Successfull
+2023-06-28 16:28:27,366 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-06-28 16:28:27,486 : INFO :  test_login : test_login: Logout successful
+2023-06-28 16:28:27,486 : INFO :  test_login : test_login: Login test case completed
+2023-06-28 16:28:55,650 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:28:55,650 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:28:59,747 : INFO :  test_login : test_login: clicked on login btn
+2023-06-28 16:28:59,837 : INFO :  test_login : test_login: Validation Successfull
+2023-06-28 16:28:59,949 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-06-28 16:28:59,949 : INFO :  test_login : test_login: Logout successful
+2023-06-28 16:28:59,949 : INFO :  test_login : test_login: Login test case completed
+2023-06-28 16:29:49,742 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:29:49,742 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:29:52,932 : INFO :  test_login : test_login: clicked on login btn
+2023-06-28 16:29:53,011 : INFO :  test_login : test_login: Validation Successfull
+2023-06-28 16:29:53,097 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-06-28 16:31:34,838 : INFO :  test_login : test_login: Launching application
+2023-06-28 16:31:34,850 : INFO :  test_login : test_login: Login test case started
+2023-06-28 16:31:38,788 : INFO :  test_login : test_login: clicked on login btn
+2023-06-28 16:31:38,874 : INFO :  test_login : test_login: Validation Successfull
+2023-06-28 16:31:38,989 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-06-28 16:31:39,109 : INFO :  test_login : test_login: Logout successful
+2023-06-28 16:31:39,109 : INFO :  test_login : test_login: Login test case completed

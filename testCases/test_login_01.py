@@ -1,3 +1,5 @@
+import time
+
 from PageObjectClass.HomePage import HomeLoginPage
 from PageObjectClass.LoginPage import MainLoginPage
 from utility.BaseClass import BaseClass
@@ -21,8 +23,9 @@ class TestLoginFunc(BaseClass):
         self.driver.get(self.baseUrl)  # launching web-application
 
         self.getExplicitWait(hp.loginLocator)  # explicit wait
-        hp.setUserName(self.username)
-        hp.setPassWd(self.passWd)
+
+        hp.setUserName().send_keys(self.username)  # sending data to the application from config.ini file
+        hp.setPassWd().send_keys(self.passWd)  # sending data to the application from config.ini file
         hp.clkLoginBtn()
         log.info('clicked on login btn')
 
@@ -31,15 +34,21 @@ class TestLoginFunc(BaseClass):
         # validation part
         if mp.getCartBtn().is_displayed():
             assert True
-            self.driver.save_screenshot(
-                r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_login.png")
+
 
         else:
+            self.driver.save_screenshot(
+                r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_login_failed.png")
             assert False
+
         log.info('Validation Successfull')
 
         mp.clkMenuBtn()
-        mp.clkLogOutBtn()
-        log.info('Login test case completed')
-        self.driver.close()
+        log.info('clicked on Menu Btn')
 
+        mp.clkLogOutBtn()
+        log.info('Logout successful')
+
+        log.info('Login test case completed')
+        time.sleep(10)
+        self.driver.close()
