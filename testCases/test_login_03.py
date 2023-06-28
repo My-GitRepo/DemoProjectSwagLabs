@@ -20,35 +20,42 @@ class TestLoginDDT(BaseClass):
         mp = MainLoginPage(self.driver)  # PageObjectClass 0f login page
 
         self.driver.get(self.baseUrl)
+        log.info('sending data to the application')
 
         # using for loop to send multiple data to the application
         for r in range(2, self.rows + 1):
+
             log.info('Data Driven testing started')
 
-        try:
-            # reading the data from excel
-            xlUsername = readData(self.file, 'Sheet1', r, 1)
-            xlPassWd = readData(self.file, 'Sheet1', r, 2)
+            try:
+                # reading the data from excel
+                xlUsername = readData(self.file, 'Sheet1', r, 1)
+                xlPassWd = readData(self.file, 'Sheet1', r, 2)
 
-            # sending data to the application
-            log.info('sending data to the application')
-            self.getExplicitWait(hp.loginLocator)  # explicit wait to solve synchronisation problem
-            hp.setUserName(xlUsername)
-            hp.setPassWd(xlPassWd)
-            hp.clkLoginBtn()
+                # sending data to the application
 
-            # validation part
-            log.info('validation part started')
-            if mp.getCartBtn().is_displayed():
-                assert True
-                writeData(self.file, 'Sheet1', r, 5, 'Pass')
-            else:
-                assert False
-            log.info('validation successful')
+                self.getExplicitWait(hp.loginLocator)  # explicit wait to solve synchronisation problem
 
-            mp.clkMenuBtn()
-            mp.clkLogOutBtn()
-        except NoSuchElementException:
-            writeData(self.file, 'Sheet1', r, 5, 'Fail')
-            log.info('Data Driven testing completed')
-            # self.driver.close()
+                hp.setUserName().clear()  # clearing the default data
+                hp.setUserName().send_keys(xlUsername)  # sending data to the application
+
+                hp.setPassWd().clear()  # clearing the default data
+                hp.setPassWd().send_keys(xlPassWd)  # sending data to the application
+
+                hp.clkLoginBtn()
+
+                # validation part
+                log.info('validation part started')
+                if mp.getCartBtn().is_displayed():
+                    assert True
+                    writeData(self.file, 'Sheet1', r, 5, 'Pass')  # writing data into excel
+                else:
+                    assert False
+                log.info('validation successful')
+
+                mp.clkMenuBtn()
+                mp.clkLogOutBtn()
+            except:
+                writeData(self.file, 'Sheet1', r, 5, 'Fail')  # writing data into excel
+        log.info('Data Driven testing completed')
+        self.driver.close()

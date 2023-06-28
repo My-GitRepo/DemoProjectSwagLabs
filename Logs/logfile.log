@@ -181,3 +181,291 @@
 2023-06-15 19:21:16,266 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
 2023-06-15 19:21:16,735 : INFO :  test_login_ddt : test_login_ddt: validation part started
 2023-06-15 19:21:16,833 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 21:28:22,133 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:28:23,844 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:29:13,778 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:29:13,826 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:38:03,802 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:38:03,898 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:38:08,341 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:38:08,376 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:38:12,823 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:38:12,879 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:38:54,015 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:39:00,621 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:39:05,321 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:39:05,366 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:39:10,137 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:39:10,185 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:39:35,322 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:39:35,403 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:41:50,637 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:41:50,899 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:41:55,400 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:41:55,497 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:41:59,842 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:41:59,903 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:46:18,395 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:46:18,549 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:46:22,976 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:46:23,137 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:46:27,602 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:46:27,687 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:46:31,567 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:46:33,618 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:46:36,479 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:46:36,559 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:48:34,677 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:48:38,320 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:48:38,439 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:48:40,114 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:48:40,511 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:48:40,628 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:49:00,582 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:49:04,457 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:49:04,562 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:49:06,429 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:49:06,824 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:49:06,934 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:49:44,155 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:49:48,034 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:49:48,136 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:49:50,148 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:50:34,453 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:50:34,554 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:51:17,464 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:51:17,573 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:51:22,375 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:51:22,444 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:51:27,809 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:51:27,879 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:51:33,407 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:51:36,576 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:51:41,125 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:51:41,213 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:52:29,706 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:52:29,798 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:52:34,639 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:52:34,707 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:52:39,903 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:52:39,979 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:52:45,128 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:52:47,277 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:52:50,464 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:52:50,532 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:54:09,812 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:54:13,377 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:54:13,564 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:54:15,006 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:54:15,037 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:54:17,846 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:54:17,937 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:54:19,451 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:54:19,573 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:54:22,432 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:54:22,520 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:54:24,028 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:54:24,073 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:54:26,039 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:54:26,105 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:54:26,149 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:54:29,316 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:54:29,367 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:54:29,404 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:54:32,158 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:54:32,235 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:54:33,682 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:56:23,097 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:56:26,525 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:56:26,627 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:56:28,286 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:56:28,321 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:56:31,212 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:56:31,284 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:56:32,950 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:56:33,025 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:56:35,731 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 21:56:35,808 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 21:56:37,395 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 21:56:37,442 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 21:56:39,345 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 22:01:45,863 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 22:01:50,867 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 22:01:52,717 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 22:01:54,436 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 22:01:54,479 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 22:01:57,281 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 22:01:57,393 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 22:01:58,968 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 22:01:59,022 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 22:02:01,962 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 22:02:02,011 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 22:02:03,489 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 22:02:03,554 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 22:02:05,467 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 22:02:05,538 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 22:02:05,556 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 22:02:07,358 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 22:02:07,590 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 22:02:07,637 : INFO :  test_kart_cred : test_kart_cred: Cred DDT started
+2023-06-15 22:02:10,349 : INFO :  test_kart_cred : test_kart_cred: validation started
+2023-06-15 22:02:10,421 : INFO :  test_kart_cred : test_kart_cred: validation completed
+2023-06-15 22:02:11,973 : INFO :  test_kart_cred : test_kart_cred: Cred DDT completed
+2023-06-15 22:06:30,553 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 22:06:30,575 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 22:06:31,181 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-15 22:06:31,462 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-15 22:06:31,714 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-15 22:06:31,714 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 22:06:31,765 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 22:06:41,536 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-15 22:06:41,536 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 22:06:41,569 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 22:06:41,676 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-15 22:06:41,676 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 22:06:41,707 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 22:06:41,738 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-15 22:06:41,738 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-15 22:06:41,754 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-15 22:06:41,801 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-26 15:51:27,180 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-26 15:51:27,198 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-26 15:51:27,198 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-26 15:51:27,198 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-26 15:51:27,198 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-26 15:51:27,218 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-26 15:51:28,112 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-26 15:51:28,271 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:47:51,844 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:47:51,936 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:47:54,221 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:47:55,036 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:47:55,237 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:47:55,269 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:47:55,676 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:47:55,785 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:47:55,970 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:47:56,002 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:47:56,388 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:47:56,577 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:47:56,577 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:47:56,609 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:47:57,021 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:47:57,061 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:47:57,061 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:47:57,092 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:47:57,498 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:47:57,544 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:53:18,935 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:53:19,038 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:53:20,090 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:53:20,217 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:53:20,468 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:53:20,517 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:53:21,274 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:53:21,505 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:53:21,710 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:53:21,750 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:53:22,261 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:53:22,316 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:53:22,316 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:53:22,355 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:53:22,936 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:53:23,502 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:53:23,502 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:53:23,534 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:53:24,129 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:53:24,229 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:56:32,891 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:56:32,985 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:56:37,122 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:56:37,272 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:56:37,488 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:56:37,527 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:56:38,027 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:56:38,084 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:56:38,226 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:56:38,226 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:56:38,253 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:56:48,602 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:56:48,602 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:56:48,649 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:56:59,212 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:56:59,212 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:56:59,250 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:57:08,606 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:57:25,212 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:57:25,255 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:57:25,935 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:57:26,092 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:57:26,316 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:57:26,356 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:57:26,876 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:57:26,954 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:57:27,098 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:57:27,098 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:57:27,155 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:57:31,339 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:57:31,339 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:57:31,374 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:57:31,407 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:57:31,407 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:57:31,439 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:57:31,470 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 15:59:03,595 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 15:59:03,595 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:59:04,302 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:59:04,433 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:59:04,740 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:59:05,362 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:59:05,413 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:59:05,639 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:59:06,278 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:59:06,385 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:59:07,073 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:59:07,113 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 15:59:07,688 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 15:59:07,746 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 15:59:07,906 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 16:01:44,417 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 16:01:44,417 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:01:45,233 : INFO :  test_login_ddt : test_login_ddt: Login successful
+2023-06-28 16:01:45,233 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:01:45,372 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:01:45,592 : INFO :  test_login_ddt : test_login_ddt: Logout successful
+2023-06-28 16:01:45,600 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:01:46,359 : INFO :  test_login_ddt : test_login_ddt: Login successful
+2023-06-28 16:01:46,359 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:01:46,431 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:01:46,674 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:01:52,345 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:01:52,456 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:01:53,241 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 16:02:26,363 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 16:02:26,367 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:02:27,033 : INFO :  test_login_ddt : test_login_ddt: Login successful
+2023-06-28 16:02:27,033 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:02:27,157 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:02:27,507 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:02:34,817 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:02:34,966 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:02:35,001 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:02:35,065 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 16:03:11,495 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 16:03:11,495 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:03:12,207 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:03:12,290 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:03:12,521 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:03:17,956 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:03:18,020 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:03:18,120 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:03:18,247 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed
+2023-06-28 16:04:07,463 : INFO :  test_login_ddt : test_login_ddt: sending data to the application
+2023-06-28 16:04:07,463 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:04:08,203 : INFO :  test_login_ddt : test_login_ddt: validation part started
+2023-06-28 16:04:08,393 : INFO :  test_login_ddt : test_login_ddt: validation successful
+2023-06-28 16:04:08,641 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:04:13,068 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:04:13,146 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:04:13,349 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing started
+2023-06-28 16:04:13,456 : INFO :  test_login_ddt : test_login_ddt: Data Driven testing completed

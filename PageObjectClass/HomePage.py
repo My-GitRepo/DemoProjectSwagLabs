@@ -14,11 +14,11 @@ class HomeLoginPage:
     loginLocator= By.XPATH, "//input[@id='login-button']"
 
     # actions
-    def setUserName(self, username):
-        return self.driver.find_element(*HomeLoginPage.userName).send_keys(username)
+    def setUserName(self):
+        return self.driver.find_element(*HomeLoginPage.userName)
 
-    def setPassWd(self, password):
-        return self.driver.find_element(*HomeLoginPage.passWd).send_keys(password)
+    def setPassWd(self):
+        return self.driver.find_element(*HomeLoginPage.passWd)
 
     def clkLoginBtn(self):
-        return self.driver.find_element(*HomeLoginPage.loginBtn).click()
+        self.driver.find_element(*HomeLoginPage.loginBtn).click()
