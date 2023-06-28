@@ -50,7 +50,10 @@ class TestLoginDDT(BaseClass):
                     assert True
                     writeData(self.file, 'Sheet1', r, 5, 'Pass')  # writing data into excel
                 else:
+                    self.driver.save_screenshot(
+                        r"C:\Users\Swapnil\PycharmProjects\DemoProjectSwagLabs\screenshots\test_login_ddt_failed.png")
                     assert False
+
                 log.info('validation successful')
 
                 mp.clkMenuBtn()
