@@ -549,3 +549,42 @@
 2023-06-28 16:31:38,989 : INFO :  test_login : test_login: clicked on Menu Btn
 2023-06-28 16:31:39,109 : INFO :  test_login : test_login: Logout successful
 2023-06-28 16:31:39,109 : INFO :  test_login : test_login: Login test case completed
+2023-07-08 14:05:24,139 : INFO :  test_login : test_login: Launching application
+2023-07-08 14:05:24,311 : INFO :  test_login : test_login: Login test case started
+2023-07-08 14:05:32,305 : INFO :  test_login : test_login: clicked on login btn
+2023-07-08 14:05:32,424 : INFO :  test_login : test_login: Validation Successfull
+2023-07-08 14:05:32,525 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-07-08 14:07:15,490 : INFO :  test_login : test_login: Launching application
+2023-07-08 14:07:15,490 : INFO :  test_login : test_login: Login test case started
+2023-07-08 14:07:20,258 : INFO :  test_login : test_login: clicked on login btn
+2023-07-08 14:07:20,348 : INFO :  test_login : test_login: Validation Successfull
+2023-07-08 14:07:20,421 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-07-08 14:09:41,667 : INFO :  test_login : test_login: Launching application
+2023-07-08 14:09:41,667 : INFO :  test_login : test_login: Login test case started
+2023-07-08 14:09:45,704 : INFO :  test_login : test_login: clicked on login btn
+2023-07-08 14:09:45,790 : INFO :  test_login : test_login: Validation Successfull
+2023-07-08 14:09:45,867 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-07-08 14:11:30,449 : INFO :  test_login : test_login: Launching application
+2023-07-08 14:11:30,450 : INFO :  test_login : test_login: Login test case started
+2023-07-08 14:11:34,306 : INFO :  test_login : test_login: clicked on login btn
+2023-07-08 14:11:34,440 : INFO :  test_login : test_login: Validation Successfull
+2023-07-08 14:11:34,529 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-07-08 14:11:34,658 : INFO :  test_login : test_login: Logout successful
+2023-07-08 14:11:34,658 : INFO :  test_login : test_login: Login test case completed
+2023-07-08 14:12:56,057 : INFO :  test_login : test_login: Launching application
+2023-07-08 14:12:56,073 : INFO :  test_login : test_login: Login test case started
+2023-07-08 14:13:03,214 : INFO :  test_login : test_login: clicked on login btn
+2023-07-08 14:13:03,319 : INFO :  test_login : test_login: Validation Successfull
+2023-07-08 14:13:03,457 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-07-08 14:13:17,793 : INFO :  test_login : test_login: Launching application
+2023-07-08 14:13:17,793 : INFO :  test_login : test_login: Login test case started
+2023-07-08 14:13:23,143 : INFO :  test_login : test_login: clicked on login btn
+2023-07-08 14:13:23,232 : INFO :  test_login : test_login: Validation Successfull
+2023-07-08 14:13:23,313 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-07-08 14:13:34,287 : INFO :  test_login : test_login: Launching application
+2023-07-08 14:13:34,335 : INFO :  test_login : test_login: Login test case started
+2023-07-08 14:13:38,705 : INFO :  test_login : test_login: clicked on login btn
+2023-07-08 14:13:38,808 : INFO :  test_login : test_login: Validation Successfull
+2023-07-08 14:13:38,961 : INFO :  test_login : test_login: clicked on Menu Btn
+2023-07-08 14:13:39,089 : INFO :  test_login : test_login: Logout successful
+2023-07-08 14:13:39,089 : INFO :  test_login : test_login: Login test case completed

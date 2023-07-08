@@ -50,5 +50,5 @@ class TestLoginFunc(BaseClass):
         log.info('Logout successful')
 
         log.info('Login test case completed')
-        time.sleep(10)
+        time.sleep(3)
         self.driver.close()

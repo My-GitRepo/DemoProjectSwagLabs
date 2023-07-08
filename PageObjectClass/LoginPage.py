@@ -11,7 +11,7 @@ class MainLoginPage:
 
     cartBtn = (By.XPATH, "//a[@class='shopping_cart_link']")
     menuBtn = (By.XPATH, "//button[@id='react-burger-menu-btn']")
-    logOutBtn = (By.XPATH, "//a[@id='logout_sidebar_link']")
+    logOutBtn = (By.XPATH, "//a[normalize-space()='Logout']")
     loginLocator = By.XPATH, "//input[@id='login-button']"
     cartLocator = By.XPATH, "//a[@class='shopping_cart_link']"
 
